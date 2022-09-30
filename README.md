@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuilhermePuc
-- 👀 I’m interested in Vue JS
-- 🌱 I’m currently learning Vue JS
+- 👀 I’m interested in Vue JS, JavaScript, TypeScript, Flutter, Node JS
+- 🌱 I’m currently learning Vue JS, JavaScript, TypeScript, Flutter, Node JS
 
 
 <!---
